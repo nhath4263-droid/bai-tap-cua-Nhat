@@ -94,7 +94,7 @@ Each ball (`Ball.java`) contains:
 ---
 
 ## 👨‍💻 Author Hoàng Anh Nhật 
-      DEMO VIDEO PLAY GAME https://youtu.be/bOaHdCfYs74
+      DEMO VIDEO PLAY GAME : https://youtu.be/bOaHdCfYs74
 
 
 
