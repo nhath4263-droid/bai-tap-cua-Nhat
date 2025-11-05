@@ -98,5 +98,4 @@ Each ball (`Ball.java`) contains:
 
 
 
-Bạn có muốn mình thêm một **hướng dẫn cài đặt NetBeans + JDK** (dành cho người mới clone dự án về) vào cuối README không?
-Ví dụ: cài JDK 17, cấu hình NetBeans để chạy Swing App.
+
